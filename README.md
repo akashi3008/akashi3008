@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @akashi3008
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-akashi3008/akashi3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ankit Berwal – Mechanical Engineer focused on ADAS.
+👀 Interested in CAN diagnostics, computer vision, and automotive validation.
+I recently built a drowsiness detection model that works in night time.
+🌱 Currently learning sensor fusion, Vector CAN tools, and advanced signal processing in Python.
+📫 Reach me at aberwal30@gmail.com or [LinkedIn](https://www.linkedin.com/in/ankitberwal/)
